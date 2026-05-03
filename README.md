@@ -19,4 +19,4 @@ including GitLab sync across repos.
 
 ---
 
-💼 [Portfolio](https://vr33ni.github.io/portfolio/)
+--> [Portfolio](https://vr33ni.github.io/portfolio/)
