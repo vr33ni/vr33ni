@@ -19,12 +19,4 @@ including GitLab sync across repos.
 
 ---
 
-## 📊 Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vr33ni&theme=dark&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vr33ni&theme=react-dark&hide_border=true&area=true)
-
----
-
-💼 [Portfolio](https://vr33ni.github.io/portfolio/) · 📬 [Contact](https://vr33ni.github.io/portfolio/contact/)
+💼 [Portfolio](https://vr33ni.github.io/portfolio/)
