@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**vr33ni/vr33ni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer with 7+ years building web apps that scale — and fixing the ones that don't. I care about clean architecture, fast feedback loops, and systems built to last.
 
-Here are some ideas to get you started:
+Currently based in El Salvador. When I'm not working on an app, you will find me surfing, in the gym, bouldering, or picking up a new language (spoken or scripted).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Lately
+
+Been experimenting with AI-powered tooling — building agentic workflows 
+with LangGraph and the Anthropic API to automate things I actually use day-to-day.
+
+## Organization
+
+Most of my projects live under [**@vr33ni-dev**](https://github.com/vr33ni-dev) — 
+where I manage shared secrets and Actions workflows at the org level, 
+including GitLab sync across repos.
+
+---
+
+## 📊 Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vr33ni&theme=dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vr33ni&theme=react-dark&hide_border=true&area=true)
+
+---
+
+💼 [Portfolio](https://vr33ni.github.io/portfolio/) · 📬 [Contact](https://vr33ni.github.io/portfolio/contact/)
